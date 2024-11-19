@@ -1,7 +1,9 @@
+
 '''
-    INVENTORY MANAGEMENT SYSTEM
-    Developed By->Nazmul Islam Shimul
+    PHARMACY REGULATION SYSTEM
+    Developed By->TRIO (Shakil, Ratul, Nazmul)
 '''
+
 
 import sqlite3
 from tkinter import ttk
