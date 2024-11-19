@@ -1,4 +1,4 @@
-# Sales-and-Inventory-Management-System
+# PHARMACY-REGULATION-SYSTEM
 
 #### Sales and Inventory Management System is a Tkinter (python module) based GUI application to generate sales invoices and maintence of inventory.
 
@@ -13,9 +13,6 @@
 #### For Transactional Users
 *	Make Invoice
 *	Check Available Products
-
-### Need More Info? 
-[Documentation](https://github.com/pj28105/Sales-and-Inventory-Management-System/blob/master/Documentation/Sales%20and%20Inventory%20Management%20System.docx)
 
 # Requirements
 ```
