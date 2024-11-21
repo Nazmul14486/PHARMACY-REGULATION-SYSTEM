@@ -1,6 +1,6 @@
 # PHARMACY-REGULATION-SYSTEM
 
-#### Sales and Inventory Management System is a Tkinter (python module) based GUI application to generate sales invoices and maintence of inventory.
+####  PHARMACY-REGULATION-SYSTEM is a Tkinter (python module) based GUI application to generate sales invoices and maintence of inventory.
 
 *	This application works on two levels of users, each category has different levels of rights to update the data & maintenance of masters like below.
 
